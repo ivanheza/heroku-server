@@ -9,6 +9,7 @@ En el servidor local definir el PORT en .env
 ## - PORYECTO EN HEROKU
 
 Se subió el codigo a heroku con la finalidad de utilizar el servidor desde heroku.
+https://server-heroku-ihp.herokuapp.com/
 
 ## Database
 
@@ -19,6 +20,8 @@ El proyecto esta programado para trabajar con MongoDB
 *  Usuarios
 *  Productos
 *  Carts
+
+URL BASE **https://server-heroku-ihp.herokuapp.com/**
 
 #### PRODUCTOS "/api/productos"
 
